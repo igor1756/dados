@@ -1,0 +1,30 @@
+executivo,
+judiciario,
+ministerio publico,
+defensoria,
+legislativo,
+
+
+
+
+federal, executivo, agu
+federal, executivo, 
+federal, legislativo, cd
+federal, legislativo, sf
+federal, judiciario, stf
+federal, judiciario, stj
+federal, judiciario, trf
+federal, mpu
+federal, dpu
+federal, tcu
+
+estadual, executivo,
+estadual, legislativo,
+estadual, judiciario, tj
+estadual, mpe
+estadual, dpe
+estadual, tce
+
+municipal, executivo,
+municipal, legislativo,
+municipal, tcm
